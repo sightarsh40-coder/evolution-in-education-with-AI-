@@ -43,16 +43,11 @@ Al-Based Method
 30 Students → Online Quiz → Al Checks Answers → Results → Feedback → performance  
 Report
 
-Student.  Marks.    Feedback
- Ali.       85 %.   Very good
- Sara.      70%.    Good Need more practice
- Iqra.       55%.   Needs help Subtraction
- Fatima.     92 %.  Excellent
-Student 	marks	feedback
-Ali	85%	Very good
-Sara	70%	Good  need  more practice 
-Iqra	55%	Needs help subtraction 
-Fatima	92%	Excellent 
+Student.                                    Marks.                                                      Feedback
+ Ali.                                       85 %.                                                       Very good
+ Sara.                                     70%.                                                         Good Need more practice
+ Iqra.                                     55%.                                                          Needs help Subtraction
+ Fatima.                                   92 %.                                                         Excellent 
 
 
  
