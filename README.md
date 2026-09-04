@@ -1,5 +1,4 @@
-# evolution-in-education-with-AI-
+# Evolution-in-education-with-AI-
 An AI-powered evaluation system tackles Pakistan's educational challenges by automating grading, eliminating manual delays, and personalizing student feedback. Built using React, FastAPI, PostgreSQL, and LLMs, the platform cuts teacher workload, tracks progress, and identifies learning weaknesses
 
 A new era of learning is beginning as AI continues to be integrated into education, particularly through automated grading systems. Efficiency, fairness, tailored feedback, and enhanced learning opportunities are the clear advantages. However, careful consideration of technical, ethical, and pedagogical elements is required for the seamless deployment of these systems. Even as AI develops, educators are still essential. Educators offer emotional support, context, and advice that go beyond what is possible with technology, despite the efficient evaluations and feedback that AI can deliver. A transformative educational experience that equips students for success in a technologically advanced society can be created by educators and students with AI as a collaborative partner. Therefore, it's worth remembering that AI is promoting a more successful educational journey the next time quick test results and insightful insights are provided.
-
