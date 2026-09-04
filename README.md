@@ -48,7 +48,14 @@ Student.  Marks.    Feedback
  Sara.      70%.    Good Need more practice
  Iqra.       55%.   Needs help Subtraction
  Fatima.     92 %.  Excellent
+Student 	marks	feedback
+Ali	85%	Very good
+Sara	70%	Good  need  more practice 
+Iqra	55%	Needs help subtraction 
+Fatima	92%	Excellent 
 
+
+ 
 The teacher can quickly identify which student need additional support
 Benefits for Students
 Al-based evaluation can help students in many ways:
